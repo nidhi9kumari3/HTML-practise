@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Text formating</title>
+    </head>
+    <body>
+        <p><strong>Software engineering</strong> is defined as a process of analyzing user requirements and then designing, building, and testing <mark>software application</mark> which will satisfy those requirements.</p>
+<p>Fritz Bauer defined it as ‘the establishment and used standard engineering principles. <del>It helps you to obtain</del>, economically, <sub>software which is reliable and works efficiently on the real machines’.
+</sub>    Boehm defines <em><software engineering</em>, which involves, ‘the practical application of scientific knowledge to the creative design and building of computer programs. It also includes associated documentation needed for developing, operating, and maintaining them.’</p>
+ </body>
+            
+            
+    </html>
