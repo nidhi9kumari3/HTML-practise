@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>list</title>
+    </head>
+    <body>
+        <ol type="i">
+            <li>Coffee</li>
+            <li>Milkshake</li>
+            <li>Milk</li>
+          </ol>
+            <ul style="list-style-type:circle;">
+  <li>Coffee</li>
+  <li>Milkshake</li>
+  <li>System3</li>
+</ul>  
+<dl>
+    <dt>Coffee</dt>
+    <dd>- black hot drink</dd>
+    <dt>Milk</dt>
+    <dd>- white cold drink</dd>
+  </dl>
+            
+            </body>
+            </html>
+            
