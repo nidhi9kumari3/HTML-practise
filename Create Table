@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Create Table</title>
+    </head>
+    <body>
+        <table> <table border='1'>
+            <thead>
+                <tr>
+                    <th>Fist Nmae </th> 
+                    <th>Last Name</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Roshni</td>
+                    <td>Kumari</td>
+                    
+
+                </tr>
+                <tr>
+                    <td>Suraj</td>
+                    <td>singh</td>
+
+                </tr>>
+                <tr>
+                    <td>Golu</td>
+                    <td>Shing</td>
+                </tr>
+
+
+            </tbody>
+        </table>
+    </body>
+    </html>
